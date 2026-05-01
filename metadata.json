@@ -1,0 +1,6 @@
+{
+  "name": "Archisys: AI System Design Sandbox",
+  "description": "An interactive, node-based system architecture simulator. Drag and drop infrastructure components and receive real-time Principal Engineer level critique from Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
